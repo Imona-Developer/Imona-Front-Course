@@ -11,7 +11,7 @@ https://www.instagram.com/
 https://twitter.com/
 
 
-========== HOME ==========
+========== HOME ========== 
 .home__title
 Baume Custom <br> 
 Timepiece Small <br> 
